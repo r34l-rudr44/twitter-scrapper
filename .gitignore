@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scraped output & downloaded media
+output/
+ouput/
+test_output/
+
+# Caches & temporary files
+.pytest_cache/
+*.log
+
+# Environments
+env/
+venv/
+.venv/
+ENV/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local development conversation logs
+claude.md
